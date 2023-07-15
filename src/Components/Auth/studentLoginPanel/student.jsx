@@ -12,7 +12,7 @@ const student = () => {
           </div>
           <input placeholder='Enter Your USN' type="text" id="usnBox" />
         </div>
-        <button name="submit" id="submit">Submit</button>
+        <button name="submit" id="submit">Login</button>
         <div className="adminlogin">
           Login as <a href='/'>Admin</a>
         </div>
