@@ -1,13 +1,19 @@
 import React from 'react'
-// import Student from '../../Components/Auth/studentLoginPanel/student'
-import Admin from '../../Components/Auth/adminLoginPanel/admin'
+import Student from '../../Components/Auth/studentLoginPanel/student'
+// import Admin from '../../Components/Auth/adminLoginPanel/admin'
 import './Login.css'
 
-const Login = () => {
+const Login = (prop) => {
   return (
     <div className='container'>
-      {/* <Student/> */}
-      <Admin/>
+
+
+      
+        <Student/>
+        {/* <Admin /> */}
+        {/* {prop? <Admin/> :  <Student/>} */}
+
+      
     </div>
   )
 }

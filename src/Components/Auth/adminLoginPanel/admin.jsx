@@ -4,7 +4,7 @@ import './admin.css'
 const admin = () => {
     return (
         <div className='container'>
-
+            <div className="con1">
             <form action="" className="adminForm">
                 <div className='Username'>
                     <div>
@@ -26,7 +26,7 @@ const admin = () => {
                     Could be added if found necessary. */}
                 
             </form>
-
+            </div>
 
         </div>
     )

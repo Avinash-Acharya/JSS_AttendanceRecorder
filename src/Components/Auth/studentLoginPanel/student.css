@@ -8,9 +8,7 @@
     border-radius: 8px;
     display: flex;
     justify-content: center;
-    align-items: center;
-    /* border: 2px solid rgb(20, 20, 239); */
-    
+    align-items: center;   
 }
 
 .studentForm {
