@@ -1,0 +1,55 @@
+[
+    {
+        "Rno": "1",
+        "Name": "John Doe",
+        "USN": "A123456789",
+        "Semester": "3",
+        "Branch": "Computer Science",    
+        "Attendance":[
+            {
+              "subjectCode": "SUB001",
+              "subjectName": "Mathematics",
+              "totalClassConducted": 20,
+              "totalClassAttended": 18,
+              "attendancePercentage": 90
+            },
+            {
+              "subjectCode": "SUB002",
+              "subjectName": "English",
+              "totalClassConducted": 25,
+              "totalClassAttended": 23,
+              "attendancePercentage": 92
+            },
+            {
+              "subjectCode": "SUB003",
+              "subjectName": "Physics",
+              "totalClassConducted": 22,
+              "totalClassAttended": 19,
+              "attendancePercentage": 86
+            },
+            {
+              "subjectCode": "SUB004",
+              "subjectName": "History",
+              "totalClassConducted": 18,
+              "totalClassAttended": 15,
+              "attendancePercentage": 83
+            },
+            {
+              "subjectCode": "SUB005",
+              "subjectName": "Chemistry",
+              "totalClassConducted": 21,
+              "totalClassAttended": 20,
+              "attendancePercentage": 95
+            },
+            {
+              "subjectCode": "SUB006",
+              "subjectName": "Biology",
+              "totalClassConducted": 24,
+              "totalClassAttended": 22,
+              "attendancePercentage": 92
+            }
+          ]
+          
+    }
+]
+  
